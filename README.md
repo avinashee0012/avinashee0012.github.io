@@ -1,11 +1,10 @@
-# rebellion_ebook
-
-<h1> Project Details </h1>
+<h3> Project Details </h3>
 <hr>
-<h3>Start Date: </h3>
-<h3>Planned end date: </h3>
-<h3>Description: </h3>
-<h3>Technologies: </h3>
-<h3>Credits: </h3>
+<h4>Start Date: </h4>
+<h4>Planned end date: </h4>
+<h4>Description: </h4>
+<h4>Technologies: </h4>
+<h4>Credits: </h4>
+<hr>
 
 
